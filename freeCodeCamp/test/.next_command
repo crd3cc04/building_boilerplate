@@ -454,3 +454,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd website
 ls --color=auto
 mv roboto.woff fonts
+find
