@@ -112,3 +112,4 @@ pwd
 cd/workspace/project/freeCodeCamp/node_modules
 cd /workspace/project/freeCodeCamp/node_modules
 cd ../..
+ls --color=auto
