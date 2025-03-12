@@ -98,3 +98,17 @@ more index.js
 cd ..
 cd ...
 cd ..
+cd ../.
+cd ../..
+cd
+pwd
+cd
+cd workspace
+cd freeCodeCamp
+clear
+cd project
+clear
+pwd
+cd/workspace/project/freeCodeCamp/node_modules
+cd /workspace/project/freeCodeCamp/node_modules
+cd ../..
