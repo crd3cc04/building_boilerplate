@@ -320,3 +320,4 @@ cd website
 ls --color=auto --help
 --all
 ls --color=auto --all
+cd .
