@@ -318,3 +318,5 @@ ls --color=auto --help
 ls --color=auto
 cd website
 ls --color=auto --help
+--all
+ls --color=auto --all
